@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/3fa78bc7-a41f-4e8a-9412-cd61e1cff154)
+
 # 🎵 SQL Data Analysis: Music Store Database
 
 This project showcases a series of SQL queries and data exploration tasks on a fictional music store database using **PostgreSQL**. The analysis is focused on answering key business questions related to employees, customers, invoices, genres, and purchase behavior.
