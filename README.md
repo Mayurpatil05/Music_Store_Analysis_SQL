@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/3fa78bc7-a41f-4e8a-9412-cd61e1cff154)
+![Image](https://github.com/user-attachments/assets/328f95b5-2737-4778-8a60-9cd7d8c50010)
 
 # 🎵 SQL Data Analysis: Music Store Database
 
